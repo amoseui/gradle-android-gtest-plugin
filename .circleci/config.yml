@@ -2,7 +2,7 @@ version: 2
 jobs:
   build-android-gtest:
     docker:
-      - image: circleci/openjdk:0.3-jdk-stretch
+      - image: circleci/openjdk:8u252-jdk
     steps:
       - checkout
       - restore_cache:
