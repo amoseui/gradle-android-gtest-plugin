@@ -1,3 +1,3 @@
 # gradle-android-gtest-plugin
-
-[![CircleCI](https://circleci.com/gh/amoseui/gradle-android-gtest-plugin/tree/master.svg?style=shield)](https://circleci.com/gh/amoseui/gradle-android-gtest-plugin/tree/master)
+![build](https://github.com/amoseui/gradle-android-gtest-plugin/workflows/build/badge.svg?branch=master)
+[![codecov](https://codecov.io/gh/amoseui/gradle-android-gtest-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/amoseui/gradle-android-gtest-plugin)
